@@ -1,0 +1,6 @@
+K:\work\website\WorkGroup\AusmtStudentProfile\Ausmt_Student_Profile\AusmtStudentProfile.Domain\bin\Debug\AusmtStudentProfile.Domain.dll
+K:\work\website\WorkGroup\AusmtStudentProfile\Ausmt_Student_Profile\AusmtStudentProfile.Domain\bin\Debug\AusmtStudentProfile.Domain.pdb
+K:\work\website\WorkGroup\AusmtStudentProfile\Ausmt_Student_Profile\AusmtStudentProfile.Domain\obj\Debug\AusmtStudentProfile.Domain.csproj.AssemblyReference.cache
+K:\work\website\WorkGroup\AusmtStudentProfile\Ausmt_Student_Profile\AusmtStudentProfile.Domain\obj\Debug\AusmtStudentProfile.Domain.csproj.CoreCompileInputs.cache
+K:\work\website\WorkGroup\AusmtStudentProfile\Ausmt_Student_Profile\AusmtStudentProfile.Domain\obj\Debug\AusmtStudentProfile.Domain.dll
+K:\work\website\WorkGroup\AusmtStudentProfile\Ausmt_Student_Profile\AusmtStudentProfile.Domain\obj\Debug\AusmtStudentProfile.Domain.pdb
