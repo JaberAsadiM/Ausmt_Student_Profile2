@@ -4,10 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AusmtStudentProfile.Application", "AusmtStudentProfile.Application", "{6568C2B1-808D-4F3D-A6A5-B51A3152F515}"
-	ProjectSection(SolutionItems) = preProject
-		Class1.cs = Class1.cs
-		StyleSheet1.css = StyleSheet1.css
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AusmtStudentProfile.Domain", "AusmtStudentProfile.Domain", "{8CD8E82D-44A3-47BF-9F7B-EC24DDA57FB2}"
 EndProject
